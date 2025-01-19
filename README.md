@@ -32,3 +32,4 @@ Usage
 Power the NodeMCU with a USB cable or a 5V power source.
 The ultrasonic sensor will continuously measure the distance.
 If an object is detected within the specified range, the LED will light up, the buzzer will sound, and a notification will be sent to Telegram.
+# output #:https://github.com/aparajithakolluri/BUILD-A-SECURITY-SYSTEM-THAT-DETECTS-MOTION-CAPTURES-IMAGES-AND-SENDS-ALERTS-TO-A-MOBILE-APP/issues/1#issue-2797458772
